@@ -1,4 +1,5 @@
 📊 Sales Analytics Dashboard | Power BI
+
 Welcome to my Power BI project — a dynamic and insightful Sales Analytics Dashboard designed to help businesses make smarter, faster decisions by turning raw sales data into meaningful visual stories.
 This Power BI project visualizes key sales metrics to help businesses gain actionable insights. The dashboard includes total revenue, sales trends, top customers, product performance and regional analysis.
 
